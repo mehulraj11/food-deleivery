@@ -1,0 +1,163 @@
+/* NAVIGATION BAR */
+#navigation {
+    width: 607px;
+}
+
+#navigation ul li {
+    padding: 0px 30px;
+}
+
+/* HOME SECTIONS */
+body .home {
+    margin-top: 100px;
+    width: 205px;
+    height: 200px;
+}
+
+body .home::before {
+    width: 609px;
+    height: 550px
+}
+
+body .home h1 {
+    /*         border:2px solid black; */
+    width: 500px
+}
+
+.home p {
+    width: 550px;
+}
+
+.choice {
+    display: inline-block;
+    position: relative;
+    top: -100px;
+    left: 190px;
+}
+
+.choice_heading h1 {
+    color: white;
+}
+
+.item {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.item_div {
+    width: 500px;
+    margin-left: 250px;
+    margin-bottom: 10px;
+}
+
+.founder {
+    display: inline-block;
+    position: relative;
+    left: 200px;
+}
+
+/*  border:2px solid white; */
+/* NAVIGATION BAR */
+/* HOME SECTIONS */
+body .home {
+    margin-top: 100px;
+    width: 205px;
+    height: 200px;
+}
+
+body .home::before {
+    width: 609px;
+    height: 550px
+}
+
+body .home h1 {
+    /*         border:2px solid black; */
+    width: 500px
+}
+
+.home p {
+    width: 550px;
+}
+
+.choice {
+    display: inline-block;
+    position: relative;
+    top: -100px;
+    left: 190px;
+}
+
+.choice_heading h1 {
+    color: white;
+}
+
+.item {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.item_div {
+    width: 500px;
+    margin-left: 250px;
+    margin-bottom: 10px;
+}
+
+.founder {
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    /*  border:2px solid white; */
+}
+
+.message {
+    border: 2px solid white;
+    /*  widht:300px; */
+}
+
+.message_div {
+    justify-content: space-between;
+    /*  border:2px solid ; */
+    margin-left: 10px;
+    /*  width:1000px; */
+}
+
+.message_div img {
+    margin-top: 100px;
+}
+
+/* .message_div p{
+             position:relative;
+             width:
+            
+            } */
+/* FOOTER */
+.foot {
+    width: 608px;
+}
+
+.message {
+    border: 2px solid white;
+    /*  widht:300px; */
+}
+
+.message_div {
+    justify-content: space-between;
+    /*  border:2px solid ; */
+    margin-left: 10px;
+    /*  width:1000px; */
+}
+
+.message_div img {
+    margin-top: 100px;
+}
+
+/* .message_div p{
+         position:relative;
+         width:
+        
+        } */
+/* FOOTER */
+.foot {
+    width: 608px;
+}
